@@ -43,7 +43,7 @@
 1. Clone the repository:
    ```bash
    git clone (https://github.com/hirushasanjula/Shop_mart.git)
-   cd mern-ecommerce
+   cd shopmart
    ```
 2. Install dependencies for both frontend and backend:
    ```bash
