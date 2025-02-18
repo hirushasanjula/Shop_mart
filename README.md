@@ -42,7 +42,7 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/hirushasanjula/mern-ecommerce.git)
+   git clone (https://github.com/hirushasanjula/Shop_mart.git)
    cd mern-ecommerce
    ```
 2. Install dependencies for both frontend and backend:
