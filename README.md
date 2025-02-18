@@ -1,4 +1,4 @@
-## React.js Ecommerce-Web Application
+## React.js Mren Stack full Website
 
 <p><strong>This is a full-featured eCommerce website built using modern web technologies. The platform allows users to browse category add items to their cart, and complete purchases securely with Admin dashboard pannel</strong></p> <br>
 
